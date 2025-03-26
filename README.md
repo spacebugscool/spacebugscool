@@ -1,9 +1,7 @@
 Hi there 👋
 
-This is a general place where we keep source code compilements of our games for research/modding purposes.
+This is a general place where we keep source code compilements of our games for research/modding/any other 🤭 purposes.
 
-Notice that these are NOT meant to be playable versions of the game, and are merely a compilation of files.
-
-Some files have been removed from the source code to both somewhat deflect piracy and to avoid potential copyright issues if we use plugins from other people
+Some files have been removed from the source code to avoid potential copyright issues if we use plugins from other people. Other features (such as online capabilities, if any) may or may not also be missing from these versions
 
 
